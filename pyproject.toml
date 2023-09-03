@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "london-devops"
+version = "0.1.0"
+description = ""
+authors = ["Patrick Debois <Patrick.Debois@jedi.be>"]
+readme = "README.md"
+packages = [{include = "london_devops"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.25.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

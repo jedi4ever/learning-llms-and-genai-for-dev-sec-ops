@@ -1,0 +1,7 @@
+*.env
+.env
+__pychache__
+map_cache*
+similar_cache*
+output.log
+*.pyc
