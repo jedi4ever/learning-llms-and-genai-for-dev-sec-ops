@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "london-devops"
+name = "llms-genai-devsecops-lessons"
 version = "0.1.0"
-description = ""
+description = "Learning llms and generative ai for Dev,Sec,Ops"
 authors = ["Patrick Debois <Patrick.Debois@jedi.be>"]
 readme = "README.md"
-packages = [{include = "london_devops"}]
+packages = [{}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
