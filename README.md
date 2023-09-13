@@ -47,7 +47,8 @@ More to come !
 - Let us know what topic you'd like to see a lesson on ? Open a github issue to ask it
 - Submit new lessons, send us corrections etc.. to improve it.
 
-- Run your own meetup/hackaton using this repo as base and report back ! We love to hear those stories
+- Run your own meetup/hackaton using this repo as base and report back ! We love to hear those stories, send us pictures or videos ! 
+- Send thankyou tweet to [@patrickdebois](https://twitter.com/patrick.debois)
 
 ## Requirements to run this repo (needs more love)
 
