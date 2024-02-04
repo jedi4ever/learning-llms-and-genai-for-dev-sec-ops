@@ -7,3 +7,4 @@ output.log
 *.pyc
 chromadb/
 chroma_db/
+.DS_Store
