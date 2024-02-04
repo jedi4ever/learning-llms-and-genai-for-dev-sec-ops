@@ -1,14 +1,13 @@
 [tool.poetry]
-name = "llms-genai-devsecops-lessons"
-version = "0.1.0"
+name = "learning-llms-and-genai-for-dev-sec-ops"
+version = "0.2.0"
 description = "Learning llms and generative ai for Dev,Sec,Ops"
 authors = ["Patrick Debois <Patrick.Debois@jedi.be>"]
 readme = "README.md"
-packages = [{}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-ipykernel = "^6.25.1"
+ipykernel = "^6.29.0"
 
 
 [build-system]

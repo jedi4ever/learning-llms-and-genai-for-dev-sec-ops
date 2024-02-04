@@ -70,8 +70,9 @@ poetry install
 
 ### configure vscode to use poetry
 - find the poetry env path `poetry env info --path`
-- in vscode `view -> command pallete -> select interpreter path -> enter interpreter path`
+- in vscode `view -> command pallete -> python: select interpreter -> enter interpreter path`
 - add the path `/Users/patrick.debois/Library/Caches/pypoetry/virtualenvs/london-devops-VW7lFx7f-py3.11` + add `/bin/python to it`
+- `poetry add ipykernel`
 
 ### configure jupyter notebooks
 - install vscode plugin
