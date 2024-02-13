@@ -65,10 +65,13 @@ Poetry is the new package manager on the block. Similar to Conda or Pip with ven
 
 ```shell
 poetry init
-poetry install
+poetry install --no-root
 ```
 
 ### configure vscode to use poetry
+- install python 3.11 (most example work with 3.12 though) with pyenv
+- get the path pyenv `pyenv which python`
+- set the poetry pyton version `poetry env use <the python binary path from pyenv>`
 - find the poetry env path `poetry env info --path`
 - in vscode `view -> command pallete -> python: select interpreter -> enter interpreter path`
 - add the path `/Users/patrick.debois/Library/Caches/pypoetry/virtualenvs/london-devops-VW7lFx7f-py3.11` + add `/bin/python to it`
