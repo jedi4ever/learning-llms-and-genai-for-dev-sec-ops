@@ -5,3 +5,6 @@ map_cache*
 similar_cache*
 output.log
 *.pyc
+chromadb/
+chroma_db/
+.DS_Store
