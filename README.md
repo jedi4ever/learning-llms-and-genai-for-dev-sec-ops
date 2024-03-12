@@ -80,3 +80,7 @@ poetry install --no-root
 ### configure jupyter notebooks
 - install vscode plugin
 - install ipykernel
+
+## Changelog 
+- 0.1 version with initial langchain syntax
+- 0.2 version adapted to new langchain-community , langchain-openai and new syntax
